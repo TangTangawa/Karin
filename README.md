@@ -19,11 +19,12 @@
 - [x] 支持被动ws
 - [ ] 支持onebot HTTP
 - [x] 支持[onebots](https://github.com/lc-cn/onebots)
-- [x] puppeteer渲染图片
-- [ ] 外置puppeteer
+- [x] ~~puppeteer渲染图片~~
+- [x] 外置[puppeteer](https://github.com/KarinJS/karin-plugin-puppeteer)
 - [ ] 支持redis集群
 
-> 关于`puppeteer`，由于内置的chrome过于臃肿，将会移除内置的pupppeteer，分开搭建或使用远程、作为插件等方式使用puppeteer。
+> 关于`puppeteer`，由于内置的chrome过于臃肿，将会移除内置的pupppeteer，分开搭建或使用远程、作为插件等方式使用puppeteer。  
+> [karin-plugin-puppeteer](https://github.com/KarinJS/karin-plugin-puppeteer)
 
 ### 感谢
 
@@ -35,3 +36,9 @@ Karin的开发离不开以下项目的帮助：
 - [onebot-11](https://github.com/botuniverse/onebot-11) onebot11标准
 - [Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) 最开始的代码结构
 - [Yunzai-Bot](https://gitee.com/le-niao/Yunzai-Bot) 最开始的代码结构
+
+### 贡献者
+
+> 🌟星光闪烁，你们的智慧如同璀璨的夜空。感谢所有为Karin做出贡献的人！
+
+[![贡献者](https://contributors-img.web.app/image?repo=KarinJS/Karin)](https://github.com/KarinJS/Karin/graphs/contributors)
